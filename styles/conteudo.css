@@ -1,0 +1,62 @@
+/*Header*/
+.tituloheader {/*Titulo principal*/
+    text-align: center;/*Alinhar ao centro*/
+    font-family: serif;/*Fonte*/
+    padding: 30px;/*Distância*/
+    background-image: linear-gradient(90deg, #000000, #434343);/*Fundo*/
+    color: white;/*Cor fonte*/
+}
+
+
+/*Main*/
+.aviso {/*Texto aviso*/
+    font-size: 30px;/*Tamanho fonte*/
+    color: white;/*Cor*/
+    margin: 100px;/*Margem*/
+    font-family: 'Times New Roman', Times, serif;/*Fonte*/
+    text-align: justify;/*Alinhamento*/
+}
+.subtitulo {/*Subtitulos*/
+    text-align: right;/*Alinhamento a direita*/
+    margin: 20px;/*Margens*/
+    margin-right: 30px;/*Margem direita*/
+    font-family: serif;/*Fonte*/
+    color: white;/*Cor fonte*/
+}
+.conteudo1 {/*Parte1*/
+    text-align: center;/*Alinhamento ao centro*/
+}
+.conteudo1 img {/*Diretamente imagens*/
+    border-radius: 20px;/*Bordas img's*/
+}
+.texto {/*Texto conteúdo*/
+    font-family: 'Courier New', Courier, monospace;/*Fonte*/
+    font-size: 25px;/*Tamanho fonte*/
+    padding: 30px;/*Distância*/
+    color: white;/*Cor fonte*/
+    text-align: justify;/*Alinhamento*/
+    padding: 100px;/*Distância*/
+}
+.conteudo2 {/*Parte2*/
+    text-align: center;/*Alinhamento ao centro*/
+}
+.conteudo2 img {/*Diretamente imagens*/
+    border-radius: 15px;/*Bordas img's*/
+}
+.conteudo3 {/*Parte3*/
+    text-align: center;/*Alinhamento ao centro*/
+}
+.conteudo3 img {/*Diretamente imagens*/
+    border-radius: 15px;/*Bordas img's*/
+}
+.conteudo4 {/*Parte3*/
+    text-align: center;/*Alinhamento ao centro*/
+}
+.conteudo4 iframe {/*Diretamente imagens*/
+    border-radius: 15px;/*Bordas img's*/
+    padding-bottom: 60px;/*Distância abaixo*/
+}
+
+@media screen and (max-width: 480px){
+  
+}
